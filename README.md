@@ -1,5 +1,3 @@
-Here’s a clean GitHub-ready README you can paste directly into `README.md` 😊
-
 ---
 
 # 🧪✨ BLDC Spin Coater with Nextion Touch UI (No Signal Cuts)
@@ -198,4 +196,4 @@ If this helped you, consider ⭐ starring the repo!
 
 ---
 
-Happy Building 🛠️✨
+-Software by Shonjoy
